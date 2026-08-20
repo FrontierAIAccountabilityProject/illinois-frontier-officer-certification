@@ -40,6 +40,8 @@ provision, create a private right of action, or create a criminal offense.
 ## File
 
 - [`bill_text.md`](./bill_text.md) - research draft v0.1
+- [`research/`](./research/) - official Illinois source text and the enacted
+  California and New York sibling statutes
 
 ## Source law
 
