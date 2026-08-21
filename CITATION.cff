@@ -1,54 +1,62 @@
 cff-version: 1.2.0
 message: >-
-  This is public-domain model legislation, released under CC0 1.0. Please cite
-  the publication version and commit so readers can identify the text reviewed.
-title: "Frontier Artificial Intelligence Responsible Officer Act"
+  This is a public-domain legislative research draft, released under CC0 1.0.
+  Please cite the publication version and commit so readers can identify the
+  text reviewed.
+title: "Frontier Artificial Intelligence Officer Certification Act (Illinois research draft)"
 abstract: >-
-  Sponsor-facing model state legislation applying the responsible corporate
-  officer doctrine of United States v. Dotterweich and United States v. Park to
-  covered frontier artificial-intelligence systems. The draft assigns personal,
-  non-delegable duties to natural persons with final material independent
-  decision authority and practical power over covered conduct. Coverage begins
-  at a 10^26-operation training-and-lineage threshold or prospective capability
-  designation and is limited by an adopting-state nexus. The base individual
-  offense requires failure to exercise due care. Separate entity liability does
-  not satisfy individual liability, and the draft restricts corporate insurance,
-  indemnification, reimbursement, or offset of individual sanctions. Public-domain
-  research draft; never introduced or enacted; no completed review claimed.
+  A research draft amending Illinois's Artificial Intelligence Safety Measures
+  Act, 430 ILCS 185 (P.A. 104-0538, as amended by P.A. 104-0466), to require
+  named natural persons at large frontier developers to sign the compliance
+  record Illinois already requires. The enacted Act requires an independent
+  audit whose report must assess the developer's "designation and empowerment of
+  senior personnel" at 430 ILCS 185/10(d)(2)(C) and must carry "the signature of
+  the lead auditor" at 430 ILCS 185/10(d)(2)(G); no controlling officer of the
+  developer signs anything, and the Act's principal civil penalties run only
+  against the entity. The draft adds a deployment certification or truthful
+  acknowledgment of noncompliance, a signed management response to each annual
+  audit, personal and non-delegable duties of reasonable inquiry and response, a
+  public officer-signature register, Attorney General enforcement against a
+  required signer for breach of that signer's own duty, and personal payment of
+  individual civil penalties without corporate indemnification, insurance,
+  reimbursement, or compensation offset. It does not alter Illinois's
+  10^26-operation compute threshold or $500,000,000 revenue threshold, does not
+  regulate ordinary AI systems, does not impose liability merely because a
+  company violated another provision, and creates no criminal offense and no
+  private right of action. Public-domain research draft; never introduced or
+  enacted; no completed review claimed.
 type: software
-version: "0.1"
+version: "0.2"
 date-released: "2026-08-21"
 authors:
   - name: "Frontier AI Accountability Project"
     website: "https://github.com/FrontierAIAccountabilityProject"
-repository-code: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
-url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
+repository-code: "https://github.com/FrontierAIAccountabilityProject/illinois-frontier-officer-certification"
+url: "https://github.com/FrontierAIAccountabilityProject/illinois-frontier-officer-certification"
 license: CC0-1.0
-identifiers:
-  - type: url
-    value: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act/releases/tag/v0.1"
-    description: "Version-specific GitHub release for research draft 0.1."
-preferred-citation:
-  type: report
-  title: "Frontier Artificial Intelligence Responsible Officer Act"
-  version: "0.1"
-  year: 2026
-  authors:
-    - name: "Frontier AI Accountability Project"
-  institution:
-    name: "Frontier AI Accountability Project"
-  url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act/releases/tag/v0.1"
 keywords:
-  - model legislation
+  - legislative research draft
+  - Illinois
+  - 430 ILCS 185
   - frontier artificial intelligence
+  - officer certification
   - responsible corporate officer doctrine
   - Park doctrine
-  - public welfare offenses
-  - state criminal law
   - natural-person accountability
-  - officer certification
   - AI governance
 references:
+  - type: legal-rule
+    title: "Illinois Artificial Intelligence Safety Measures Act, 430 ILCS 185"
+    year: 2026
+    notes: "The enacted Act this draft would amend; P.A. 104-0538, as amended by P.A. 104-0466. Effective January 1, 2027."
+  - type: report
+    title: "Frontier Artificial Intelligence Responsible Officer Act"
+    version: "0.1"
+    year: 2026
+    authors:
+      - name: "Frontier AI Accountability Project"
+    url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
+    notes: "The general model-legislation version of the same proposal, for adoption by any state. This Illinois draft is the state-specific adaptation."
   - type: legal-case
     title: "United States v. Dotterweich, 320 U.S. 277 (1943)"
     year: 1943
@@ -60,7 +68,7 @@ references:
     year: 1975
     authors:
       - name: "Supreme Court of the United States"
-    notes: "Authority to prevent or correct and the treatment of delegation."
+    notes: "Authority to prevent or correct, and the treatment of delegation."
   - type: legal-case
     title: "United States v. DeCoster, 828 F.3d 626 (8th Cir. 2016)"
     year: 2016
