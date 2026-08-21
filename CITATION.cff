@@ -1,0 +1,69 @@
+cff-version: 1.2.0
+message: >-
+  This is public-domain model legislation, released under CC0 1.0. Please cite
+  the publication version and commit so readers can identify the text reviewed.
+title: "Frontier Artificial Intelligence Responsible Officer Act"
+abstract: >-
+  Sponsor-facing model state legislation applying the responsible corporate
+  officer doctrine of United States v. Dotterweich and United States v. Park to
+  covered frontier artificial-intelligence systems. The draft assigns personal,
+  non-delegable duties to natural persons with final material independent
+  decision authority and practical power over covered conduct. Coverage begins
+  at a 10^26-operation training-and-lineage threshold or prospective capability
+  designation and is limited by an adopting-state nexus. The base individual
+  offense requires failure to exercise due care. Separate entity liability does
+  not satisfy individual liability, and the draft restricts corporate insurance,
+  indemnification, reimbursement, or offset of individual sanctions. Public-domain
+  research draft; never introduced or enacted; no completed review claimed.
+type: software
+version: "0.1"
+date-released: "2026-08-21"
+authors:
+  - name: "Frontier AI Accountability Project"
+    website: "https://github.com/FrontierAIAccountabilityProject"
+repository-code: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
+url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act"
+license: CC0-1.0
+identifiers:
+  - type: url
+    value: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act/releases/tag/v0.1"
+    description: "Version-specific GitHub release for research draft 0.1."
+preferred-citation:
+  type: report
+  title: "Frontier Artificial Intelligence Responsible Officer Act"
+  version: "0.1"
+  year: 2026
+  authors:
+    - name: "Frontier AI Accountability Project"
+  institution:
+    name: "Frontier AI Accountability Project"
+  url: "https://github.com/FrontierAIAccountabilityProject/frontier-ai-responsible-officer-act/releases/tag/v0.1"
+keywords:
+  - model legislation
+  - frontier artificial intelligence
+  - responsible corporate officer doctrine
+  - Park doctrine
+  - public welfare offenses
+  - state criminal law
+  - natural-person accountability
+  - officer certification
+  - AI governance
+references:
+  - type: legal-case
+    title: "United States v. Dotterweich, 320 U.S. 277 (1943)"
+    year: 1943
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "Responsible-relation doctrine used by the draft."
+  - type: legal-case
+    title: "United States v. Park, 421 U.S. 658 (1975)"
+    year: 1975
+    authors:
+      - name: "Supreme Court of the United States"
+    notes: "Authority to prevent or correct and the treatment of delegation."
+  - type: legal-case
+    title: "United States v. DeCoster, 828 F.3d 626 (8th Cir. 2016)"
+    year: 2016
+    authors:
+      - name: "United States Court of Appeals for the Eighth Circuit"
+    notes: "Culpability and imprisonment under the responsible-officer line."
