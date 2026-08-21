@@ -41,6 +41,7 @@ provision, create a private right of action, or create a criminal offense.
 
 - [`bill_text.md`](./bill_text.md) - research draft v0.2, with amended sections
   reproduced at length
+- [`SPONSOR_MEMO.md`](./SPONSOR_MEMO.md) - one-page legislative handoff memo
 - [`research/`](./research/) - official Illinois source text and the enacted
   California and New York sibling statutes
 
