@@ -39,22 +39,23 @@ provision, create a private right of action, or create a criminal offense.
 
 ## File
 
-- [`bill_text.md`](./bill_text.md) - research draft v0.1
+- [`bill_text.md`](./bill_text.md) - research draft v0.2, with amended sections
+  reproduced at length
 - [`research/`](./research/) - official Illinois source text and the enacted
   California and New York sibling statutes
 
 ## Source law
 
-- Illinois Artificial Intelligence Safety Measures Act, P.A. 104-0538
-- Enrolled SB 315, 104th General Assembly
-- Approved July 6, 2026; effective January 1, 2027
+- Illinois Artificial Intelligence Safety Measures Act, 430 ILCS 185
+- P.A. 104-0538, as subsequently amended by P.A. 104-0466
+- Underlying Act effective January 1, 2027
 
 The official Illinois publication controls wherever it differs from this
 research draft.
 
 ## Status
 
-Research draft v0.1, 20 August 2026. Not enacted law. Not legal advice. Drafted
+Research draft v0.2, 21 August 2026. Not enacted law. Not legal advice. Drafted
 with AI assistance disclosed and intended for legislative-counsel, agency,
 academic, civil-society, industry, and public review.
 

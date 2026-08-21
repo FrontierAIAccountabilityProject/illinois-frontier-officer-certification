@@ -3,19 +3,44 @@
 This folder preserves the enacted texts against which the Illinois officer
 certification draft is written.
 
-## Controlling source
+## Current Illinois baseline
+
+### Consolidated 430 ILCS 185
+
+- [`illinois_430_ilcs_185_consolidated_2026_08_21.html`](./illinois_430_ilcs_185_consolidated_2026_08_21.html)
+- [`illinois_430_ilcs_185_consolidated_2026_08_21.txt`](./illinois_430_ilcs_185_consolidated_2026_08_21.txt)
+- Official source: <https://www.ilga.gov/Legislation/ILCS/Articles?ActID=4689&Chapter=PUBLIC%20SAFETY&ChapterID=39&MajorTopic=HEALTH%20AND%20SAFETY&Print=True>
+
+This is the consolidated statutory text used as the baseline for research draft
+v0.2. It incorporates both Public Act 104-538 and the later amendments made by
+Public Act 104-466. The saved HTML is a dated snapshot of the Illinois General
+Assembly page. The TXT file is a convenience conversion.
+
+## Constituent Public Acts
 
 ### Illinois SB 315 / Public Act 104-0538
 
 - [`illinois_sb0315_pa_104_0538_enrolled.pdf`](./illinois_sb0315_pa_104_0538_enrolled.pdf)
 - [`illinois_sb0315_pa_104_0538_enrolled.txt`](./illinois_sb0315_pa_104_0538_enrolled.txt)
-- Official source: <https://www.ilga.gov/documents/legislation/104/SB/PDF/10400SB0315lv.pdf>
+- Official source: <https://www.ilga.gov/Documents/Legislation/PublicActs/104/PDF/104-0538.pdf>
 
-This is the Artificial Intelligence Safety Measures Act that the proposed bill
-would amend. The PDF is the official enrolled bill publication. The plain-text
-file is a convenience extraction and may not preserve underlining,
-strikethrough, spacing, pagination, or other legislative typography. The
-official publication controls.
+This Public Act created the Artificial Intelligence Safety Measures Act. It is
+not, by itself, the complete current baseline because Public Act 104-466 also
+amended Sections 18 and 25. The plain-text file is a convenience extraction and
+may not preserve underlining, strikethrough, spacing, pagination, or other
+legislative typography. The official publication controls.
+
+### Illinois HB 2949 / Public Act 104-0466
+
+- [`illinois_pa_104_0466.pdf`](./illinois_pa_104_0466.pdf)
+- [`illinois_pa_104_0466.txt`](./illinois_pa_104_0466.txt)
+- Official source: <https://www.ilga.gov/Documents/Legislation/PublicActs/104/PDF/104-0466.pdf>
+
+Section 40-15 of this Public Act changed Sections 18 and 25 of the Artificial
+Intelligence Safety Measures Act, including disclosure fees, the AI Safety
+Measures Fund, the destination of penalties, and the Act-wide no-private-right
+provision. These changes are preserved to prevent a later amendment from being
+drafted against the superseded SB 315 text.
 
 ## Enacted sibling statutes
 
@@ -48,4 +73,5 @@ already enacted. The sibling statutes are preserved to identify shared
 language, test cross-state consistency, and prevent the proposal from claiming
 an innovation where the underlying duty is already law.
 
-Retrieved 20 August 2026.
+Original sibling sources retrieved 20 August 2026. Consolidated Illinois text
+and Public Act 104-466 retrieved 21 August 2026.
