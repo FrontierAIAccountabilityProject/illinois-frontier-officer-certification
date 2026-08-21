@@ -1,9 +1,29 @@
 # Table of authorities
 
-Every authority cited in the statutory source reproduced as [`bill_text.txt`](./bill_text.txt)
-and in the source drafting notes, with the provision or note that cites it and the proposition
-for which it is cited. This table is included so that a reviewer can identify the legal source
-behind a provision without searching the historical drafting record.
+> ## Read this first — what this table is, and what it is not
+>
+> **This table was compiled for the Model Act v3.4, not for the Illinois draft in this
+> repository.** It was carried over when this repository was created and is retained because the
+> doctrine it documents — *Dotterweich*, *Park*, *Morissette* and the responsible-officer line — is
+> the doctrine the Illinois draft rests on.
+>
+> **It is not a table of authorities for the Illinois amendment.** It does not cover 430 ILCS 185,
+> P.A. 104-0538, P.A. 104-0466, or any Illinois-specific authority, and references below to
+> `bill_text.txt` and to numbered sections are to the **Model Act's** text, not to the amendatory
+> text in this repository's [`bill_text.md`](./bill_text.md).
+>
+> **An Illinois-specific table has not been compiled.** Saying so is more useful to a reviewer than
+> a relabelled one would be. The complete drafting record sits in the
+> [model-act repository](https://github.com/FrontierAIAccountabilityProject/model-act).
+>
+> *Rescoped 21 August 2026. This file previously presented itself as the authority base of the text
+> in this repository, which it was not; see [`SOURCE_AND_PROVENANCE.md`](./SOURCE_AND_PROVENANCE.md).*
+
+---
+
+Every authority cited in the Model Act's statutory source and in its source drafting notes, with
+the provision or note that cites it and the proposition for which it is cited, so that a reviewer
+can identify the legal source behind a provision without searching the historical drafting record.
 
 **Scope.** The v3.4 statute and its source drafting notes. The historical drafting record,
 evidence dossier, and standards notes contain additional sources that are not part of the
